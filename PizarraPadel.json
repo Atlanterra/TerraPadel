@@ -70,6 +70,14 @@
       "readBy": [
         "UJNBIG"
       ]
+    },
+    {
+      "id": 1755302358081,
+      "from": "UJNBIG",
+      "to": "admin",
+      "message": "segundo contacto",
+      "date": "2025-08-16",
+      "readBy": []
     }
   ]
 }
