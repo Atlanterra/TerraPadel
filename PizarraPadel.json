@@ -1,27 +1,6 @@
 {
   "players": [
     {
-      "id": 1755270266359,
-      "userId": "USR4YO0JLVO",
-      "name": "Holica Miyuta",
-      "gender": "female",
-      "age": "45",
-      "level": "beginner",
-      "availability": "mornings",
-      "phone": "658774526",
-      "dates": [
-        "2025-08-21",
-        "2025-08-22",
-        "2025-08-29",
-        "2025-08-30"
-      ],
-      "description": "asdf",
-      "rating": 2,
-      "secretCode": "NG1I2Y",
-      "consent": true,
-      "registrationDate": "2025-08-15"
-    },
-    {
       "id": 1755270390890,
       "userId": "USRKQQQ1K9X",
       "name": "Frankito Jualians",
