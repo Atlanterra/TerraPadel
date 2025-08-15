@@ -1,5 +1,28 @@
 {
-  "players": [],
+  "players": [
+    {
+      "id": 1755300393753,
+      "userId": "USRRL4KWM1Z",
+      "name": "Holomaute Nabotto",
+      "gender": "male",
+      "age": "55",
+      "level": "beginner",
+      "availability": "mornings",
+      "phone": "698574856",
+      "dates": [
+        "2025-08-06",
+        "2025-08-14",
+        "2025-08-22",
+        "2025-08-29",
+        "2025-08-30"
+      ],
+      "description": "Z",
+      "rating": 2,
+      "secretCode": "61DUT6",
+      "consent": true,
+      "registrationDate": "2025-08-16"
+    }
+  ],
   "requests": [],
   "messages": []
 }
