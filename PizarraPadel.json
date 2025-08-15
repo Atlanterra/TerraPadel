@@ -20,7 +20,8 @@
       "rating": 2,
       "secretCode": "61DUT6",
       "consent": true,
-      "registrationDate": "2025-08-16"
+      "registrationDate": "2025-08-16",
+      "blocked": true
     },
     {
       "id": 1755300500371,
