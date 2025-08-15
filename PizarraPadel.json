@@ -60,5 +60,14 @@
       ]
     }
   ],
-  "messages": []
+  "messages": [
+    {
+      "id": 1755302102162,
+      "from": "admin",
+      "to": "UJNBIG",
+      "message": "hola desde Admin",
+      "date": "2025-08-16",
+      "readBy": []
+    }
+  ]
 }
