@@ -24,5 +24,14 @@
     }
   ],
   "requests": [],
-  "messages": []
+  "messages": [
+    {
+      "id": 1755270667491,
+      "from": "admin",
+      "to": "all",
+      "message": "asdf",
+      "date": "2025-08-15",
+      "readBy": []
+    }
+  ]
 }
