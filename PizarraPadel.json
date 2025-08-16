@@ -44,7 +44,7 @@
       "secretCode": "UJNBIG",
       "consent": true,
       "registrationDate": "2025-08-16",
-      "blocked": true
+      "blocked": false
     }
   ],
   "requests": [
