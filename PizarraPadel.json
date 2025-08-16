@@ -322,6 +322,14 @@
       "readBy": [
         "admin"
       ]
+    },
+    {
+      "id": 1755354098148,
+      "from": "admin",
+      "to": "UJNBIG",
+      "message": "hola Andreíta",
+      "date": "2025-08-16",
+      "readBy": []
     }
   ]
 }
