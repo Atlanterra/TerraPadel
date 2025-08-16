@@ -248,6 +248,14 @@
       "readBy": [
         "admin"
       ]
+    },
+    {
+      "id": 1755352220917,
+      "from": "61DUT6",
+      "to": "admin",
+      "message": "1550",
+      "date": "2025-08-16",
+      "readBy": []
     }
   ]
 }
