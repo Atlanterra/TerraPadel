@@ -285,7 +285,9 @@
       "to": "admin",
       "message": "sdf",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755353757973,
