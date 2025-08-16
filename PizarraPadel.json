@@ -80,6 +80,14 @@
       "readBy": [
         "admin"
       ]
+    },
+    {
+      "id": 1755303353129,
+      "from": "UJNBIG",
+      "to": "admin",
+      "message": "Me lees?",
+      "date": "2025-08-16",
+      "readBy": []
     }
   ]
 }
