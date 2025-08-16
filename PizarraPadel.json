@@ -144,7 +144,9 @@
       "to": "admin",
       "message": "Reporte de conducta inapropiada:\n- Usuario reportado: Andreita Manchega (USRIG64C747)\n- Motivo: acoso intimidacion\n- Detalles: fvb\n- Reportado por: Holomaute Nabotto (USRRL4KWM1Z)\n",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755311853539,
@@ -172,7 +174,9 @@
       "to": "admin",
       "message": "Reporte de conducta inapropiada:\n- Usuario reportado: Andreita Manchega (USRIG64C747)\n- Motivo: contenido sexual_violencia\n- Detalles: 631\n- Reportado por: Holomaute Nabotto (USRRL4KWM1Z)\n",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755318849551,
@@ -190,7 +194,9 @@
       "to": "admin",
       "message": "Reporte de conducta inapropiada:\n- Usuario reportado: Andreita Manchega (USRIG64C747)\n- Motivo: acoso intimidacion\n- Detalles: a\n- Reportado por: Holomaute Nabotto (USRRL4KWM1Z)\n",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755319176914,
@@ -218,7 +224,9 @@
       "to": "admin",
       "message": "Reporte de conducta inapropiada:\n- Usuario reportado: Andreita Manchega (USRIG64C747)\n- Motivo: comportamiento abusivo_acoso\n- Detalles: dfg\n- Reportado por: Holomaute Nabotto (USRRL4KWM1Z)\n",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     }
   ]
 }
