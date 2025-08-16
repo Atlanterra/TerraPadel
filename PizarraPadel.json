@@ -273,7 +273,9 @@
       "to": "admin",
       "message": "dfg",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     }
   ]
 }
