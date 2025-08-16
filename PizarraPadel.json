@@ -66,11 +66,13 @@
       "from": "61DUT6",
       "to": "UJNBIG",
       "message": "jio",
-      "status": "pendiente",
+      "status": "aceptada",
       "date": "2025-08-16",
       "fromPlayerId": 1755300393753,
       "toPlayerId": 1755300500371,
-      "readBy": []
+      "readBy": [
+        "UJNBIG"
+      ]
     }
   ],
   "messages": [
