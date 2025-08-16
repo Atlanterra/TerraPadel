@@ -88,9 +88,7 @@
       "to": "admin",
       "message": "Me lees?",
       "date": "2025-08-16",
-      "readBy": [
-        "admin"
-      ]
+      "readBy": []
     },
     {
       "id": 1755308273101,
@@ -98,9 +96,7 @@
       "to": "admin",
       "message": "hola 337",
       "date": "2025-08-16",
-      "readBy": [
-        "admin"
-      ]
+      "readBy": []
     },
     {
       "id": 1755308609523,
@@ -118,9 +114,15 @@
       "to": "admin",
       "message": "357",
       "date": "2025-08-16",
-      "readBy": [
-        "admin"
-      ]
+      "readBy": []
+    },
+    {
+      "id": 1755309569975,
+      "from": "61DUT6",
+      "to": "admin",
+      "message": "Reporte de conducta inapropiada:\n- Usuario reportado: Andreita Manchega (USRIG64C747)\n- Motivo: acoso intimidacion\n- Detalles: fvb\n- Reportado por: Holomaute Nabotto (USRRL4KWM1Z)\n",
+      "date": "2025-08-16",
+      "readBy": []
     }
   ]
 }
