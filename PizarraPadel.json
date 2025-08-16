@@ -88,7 +88,9 @@
       "to": "admin",
       "message": "Me lees?",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755308273101,
@@ -96,7 +98,9 @@
       "to": "admin",
       "message": "hola 337",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755308609523,
@@ -114,7 +118,9 @@
       "to": "admin",
       "message": "357",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     }
   ]
 }
