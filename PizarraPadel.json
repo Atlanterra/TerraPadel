@@ -97,6 +97,14 @@
       "message": "hola 337",
       "date": "2025-08-16",
       "readBy": []
+    },
+    {
+      "id": 1755308609523,
+      "from": "UJNBIG",
+      "to": "admin",
+      "message": "Reporte de conducta inapropiada:\n- Usuario reportado: Holomaute Nabotto (USRRL4KWM1Z)\n- Motivo: spam actividad_enganosa\n- Detalles: asdf\n- Reportado por: Andreita Manchega (USRIG64C747)\n",
+      "date": "2025-08-16",
+      "readBy": []
     }
   ]
 }
