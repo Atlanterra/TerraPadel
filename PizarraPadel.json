@@ -75,6 +75,17 @@
         "UJNBIG",
         "61DUT6"
       ]
+    },
+    {
+      "id": 1755353911240,
+      "from": "61DUT6",
+      "to": "UJNBIG",
+      "message": "sd",
+      "status": "pendiente",
+      "date": "2025-08-16",
+      "fromPlayerId": 1755300393753,
+      "toPlayerId": 1755300500371,
+      "readBy": []
     }
   ],
   "messages": [
