@@ -327,9 +327,11 @@
       "id": 1755354098148,
       "from": "admin",
       "to": "UJNBIG",
-      "message": "hola Andreíta",
+      "message": "hola AndreÃ­ta",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     }
   ]
 }
