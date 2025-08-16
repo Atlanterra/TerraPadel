@@ -162,7 +162,9 @@
       "to": "admin",
       "message": "627",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755318693715,
@@ -178,7 +180,9 @@
       "to": "admin",
       "message": "634",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755318956345,
@@ -194,7 +198,9 @@
       "to": "admin",
       "message": "xdf",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755319488355,
@@ -202,7 +208,9 @@
       "to": "admin",
       "message": "sadf",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     },
     {
       "id": 1755319559769,
