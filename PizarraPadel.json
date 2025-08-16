@@ -151,7 +151,9 @@
       "to": "admin",
       "message": "437",
       "date": "2025-08-16",
-      "readBy": []
+      "readBy": [
+        "admin"
+      ]
     }
   ]
 }
