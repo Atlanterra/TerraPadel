@@ -43,7 +43,8 @@
       "rating": 3,
       "secretCode": "UJNBIG",
       "consent": true,
-      "registrationDate": "2025-08-16"
+      "registrationDate": "2025-08-16",
+      "blocked": true
     }
   ],
   "requests": [
